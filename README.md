@@ -6,6 +6,14 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 Check out [*The Hello World Collection*](http://helloworldcollection.de/) for a comprehensive guide to more 'Hello Worlding'
 
+## elm
+
+```bash
+elm make src/HelloWorld.elm
+
+open index.html
+```
+
 ## go
 
 ```bash
@@ -29,7 +37,6 @@ cd python
 
 python hello_world.py
 ```
-
 
 ## Reason
 
