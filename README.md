@@ -30,12 +30,11 @@ python --version
 ruby - v
 
 rustc --version
-
 ```
 
 ## elm
 
-### Requirements
+#### Requirements
 
 - install [elm](https://guide.elm-lang.org/install/elm.html)
 
@@ -47,7 +46,7 @@ open index.html
 
 ## go
 
-### Requirements
+#### Requirements
 
 - install [go](https://golang.org/)
 
@@ -59,7 +58,7 @@ go run hello-world.go
 
 ## JavaScript
 
-### Requirements
+#### Requirements
 
 - install [node](https://nodejs.org/en/)
 
@@ -71,7 +70,7 @@ node helloWorld.js
 
 ## Python
 
-### Requirements
+#### Requirements
 
 - install [python](https://www.python.org/downloads/)
 
@@ -83,7 +82,7 @@ python hello_world.py
 
 ## Reason
 
-### Requirements
+#### Requirements
 
 - install [node](https://nodejs.org/en/)
 
@@ -98,7 +97,7 @@ node src/helloWorld.bs.js
 
 ## Ruby
 
-### Requirements
+#### Requirements
 
 - install [ruby](https://www.ruby-lang.org/en/)
 
@@ -110,7 +109,7 @@ ruby hello_world.rb
 
 ## Rust
 
-### Requirements
+#### Requirements
 
 - install [rust](https://www.rust-lang.org/tools/install)
 
@@ -123,7 +122,7 @@ rustc hello_world.rs
 
 ## Typescript
 
-### Requirements
+#### Requirements
 
 - install [node](https://nodejs.org/en/)
 
@@ -134,5 +133,4 @@ npm i -g typescript or yarn add global typescript
 tsc src/helloWorld.ts
 
 node src/helloWorld.js
-
 ```
