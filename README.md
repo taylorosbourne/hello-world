@@ -6,6 +6,33 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 Check out [*The Hello World Collection*](http://helloworldcollection.de/) for a comprehensive guide to more 'Hello Worlding'
 
+## Getting started
+
+#### Clone the repo
+
+```bash
+git clone https://github.com/taylorosbourne/hello-world.git
+
+cd hello-world
+```
+
+#### Check if languages are installed
+
+```bash
+elm
+
+go version
+
+node -v
+
+python --version
+
+ruby - v
+
+rustc --version
+
+```
+
 ## elm
 
 ### Requirements
